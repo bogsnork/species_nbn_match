@@ -1,168 +1,168 @@
-species,baseline,pilot,pilot_nbrd
-Acroloxus lacustris,NA,Y,Y
-Agrostis stolonifera,NA,Y,Y
-Algae filimentous,Y,NA,NA
-Alisma lanceolata,Y,NA,NA
-Alisma plantago-aquatica,NA,Y,Y
-Alisma plantago aquatica,Y,NA,NA
-Alisma sp,NA,Y,Y
-Alopecurus geniculatus,NA,Y,Y
-Anacamptis pyramidalis,NA,Y,Y
-Anisus vortex,NA,Y,Y
-Apium nodiflorum,Y,NA,NA
-Argyroneta aquatica,NA,Y,Y
-Arianta arbustorum,NA,Y,Y
-Baldellia ranunculoides,Y,NA,NA
-Barbarea vulgaris,Y,NA,NA
-Bathyomphalus contortus,NA,Y,Y
-Berula erecta,Y,Y,Y
-Bithynia leachii,NA,Y,Y
-Bithynia tentaculata,NA,Y,Y
-Bolboschoenus maritimus,NA,Y,Y
-Bulboschaenus maritimus,Y,NA,NA
-Butomus umbellatus,Y,NA,NA
-Callitriche obtusangula,Y,NA,NA
-Callitriche sp,NA,Y,NA
-Callitriche stagnalis,Y,NA,NA
-Caltha palustris,Y,Y,NA
-Cardamine pratensis,Y,NA,NA
-Carex acutiformis/riparia,Y,NA,NA
-Carex distans,Y,NA,NA
-Carex disticha,Y,Y,Y
-Carex divisa,Y,Y,Y
-Carex hirta,Y,NA,NA
-Carex otrubae,Y,Y,Y
-Carex paniculata,Y,NA,NA
-Carex pendula,Y,NA,NA
-Carex riparia,NA,Y,Y
-Carychium minimum,NA,Y,NA
-Cepaea nemoralis,NA,Y,Y
-Cepaea sp,NA,Y,NA
-Ceratophyllum demersum,Y,Y,NA
-Chara globularis,NA,Y,Y
-Chara sp.,Y,NA,NA
-Chara vulgaris,NA,Y,Y
-Chenopodium alba,Y,NA,NA
-Cochlicopa lubrica,NA,Y,NA
-Crataegus monogyna,NA,Y,Y
-Dytiscus marginalis,NA,Y,Y
-Eleocharis palustris,Y,Y,Y
-Elodea canadensis,NA,Y,Y
-Elodea nuttallii,Y,Y,Y
-Enteromorpha,Y,NA,NA
-Epilobium hirsutum,Y,Y,Y
-Epilobium parviflorum,NA,Y,Y
-Equisetum fluviatile,Y,NA,NA
-Euconulus cf. fulvus agg,NA,Y,Y
-Euconulus fulvus,NA,Y,NA
-Eupatorium cannabinum,Y,Y,Y
-Filamentous algae,NA,Y,Y
-Filipendula ulmaria,Y,NA,NA
-Galium aparine,NA,Y,NA
-Galium palustre,Y,NA,NA
-Glyceria maxima,Y,Y,Y
-Glyceria plicata,Y,NA,NA
-Gyraulus crista,NA,Y,Y
-Hippeutis complanatus,NA,Y,Y
-Hippuris vulgaris,Y,NA,NA
-Hydrocharis morsus-ranae,Y,Y,Y
-Hydrocotyle vulgaris,Y,NA,NA
-Hypericum tetrapterum,Y,NA,NA
-Iris pseudacorus,Y,Y,Y
-Juncus acutiflorus,NA,Y,Y
-Juncus articulatus,Y,Y,Y
-Juncus bufonius,Y,NA,NA
-Juncus effusus,Y,NA,NA
-Juncus gerardii,Y,NA,NA
-Juncus inflexus,Y,Y,Y
-Lathyrus pratensis,Y,NA,NA
-Leman minuscula,Y,NA,NA
-Lemna gibba,Y,NA,NA
-Lemna minor,Y,Y,Y
-Lemna minuta,NA,Y,Y
-Lemna trisulca,Y,Y,Y
-Leptodictyum riparium,NA,Y,Y
-Lychnis flos-cuculi,Y,NA,NA
-Lycopus europaeus,Y,NA,NA
-Lymnaea (Stagnicola) agg,NA,Y,Y
-Lymnaea stagnalis,NA,Y,Y
-Lysimachia nummularia,Y,Y,Y
-Lythrum salicaria,Y,Y,NA
-Mentha aquatica,Y,Y,Y
-Musculium lacustre,NA,Y,NA
-Myosotis caespitosa,Y,NA,NA
-Myosotis scorpioides,Y,Y,Y
-Myosotis sp,NA,Y,NA
-Myriophyllum  verticillatum,Y,NA,NA
-Myriophyllum sp,NA,Y,NA
-Myriophyllum spicatum,NA,Y,Y
-Nesovitrea hammonis,NA,Y,NA
-Nymphaea alba,Y,Y,Y
-Oenanthe aquatica,NA,Y,NA
-Oenanthe fistulosa,Y,Y,Y
-Oxyloma elegans,NA,Y,Y
-Persicaria amphibia,NA,Y,Y
-Persicaria persicaria,NA,Y,Y
-Phalaris arundinacea,Y,NA,NA
-Phragmites australis,NA,Y,Y
-Phragmites australis*,Y,NA,NA
-Physa fontinalis,NA,Y,Y
-Pisidium sp,NA,Y,Y
-Planorbarius corneus,NA,Y,Y
-Planorbis carinatus,NA,Y,NA
-Planorbis planorbis,NA,Y,Y
-Polygonum amphibium,Y,NA,NA
-Polygonum hydropiper,Y,NA,NA
-Polygonum lapathifolium,Y,NA,NA
-Polygonum persicaria,Y,NA,NA
-Potamogeton acutifolius,Y,Y,Y
-Potamogeton coloratus,NA,Y,Y
-Potamogeton crispus,Y,NA,NA
-Potamogeton friesii,Y,Y,NA
-Potamogeton lucens,Y,NA,NA
-Potamogeton natans,Y,Y,Y
-Potamogeton pectinatus,Y,NA,NA
-Potamogeton pusillus,Y,Y,Y
-Potentilla anserina,NA,Y,Y
-Pulicaria dysenterica,Y,Y,Y
-Punctum pygmaeum,NA,Y,NA
-Radix auricularia,NA,Y,Y
-Radix balthica,NA,Y,Y
-Ranunculus circinatus,Y,Y,NA
-Ranunculus sardous,NA,Y,Y
-Ranunculus sceleratus,Y,NA,NA
-Ranunculus scleratus,NA,Y,Y
-Ranunculus sp,NA,Y,Y
-Ribes rubrum,NA,Y,NA
-Rorippa nasturtium-aquaticum,Y,Y,Y
-Rubus fruticosus agg,NA,Y,NA
-Rumex conglomeratus,NA,Y,Y
-Rumex hydrolapathum,Y,Y,Y
-Salix sp,NA,Y,Y
-Samolus valerandi,Y,Y,Y
-Scirpus lacustris,Y,NA,NA
-Scrophularia aquatica,Y,NA,NA
-Segmentina nitida,NA,Y,Y
-Silaum silaus,NA,Y,Y
-Solanum dulcamara,Y,Y,Y
-Sparganium erectum,Y,Y,Y
-Sphaerium corneum,NA,Y,Y
-Spirodella polyrhiza,Y,NA,NA
-Succinea putris,NA,Y,NA
-Succineid sp,NA,Y,Y
-Trifolium fragiferum,NA,Y,Y
-Typha angustifolia,Y,Y,Y
-Typha latifolia,Y,Y,Y
-Urtica dioica,NA,Y,NA
-Urtica dioica subsp. Galeopsifolia,NA,Y,Y
-Utricularia vulgaris,Y,NA,NA
-Valvata cristata,NA,Y,Y
-Veronica anagalis-aquatica,Y,NA,NA
-Veronica beccabunga,Y,NA,NA
-Veronica scutellata,Y,NA,NA
-Vertigo antivertigo,NA,Y,NA
-Vertigo moulinsiana,NA,Y,NA
-Vertigo pygmaea,NA,Y,NA
-Vitrina pellucida,NA,Y,NA
-Zannichelia palustris,Y,NA,NA
-Zonitoides nitidus,NA,Y,Y
+species,baseline,pilot,pilot_nbrd,gbif.matched_name,gbif.classification_path,gbif.classification_path_ranks,gbif.classification_path_ids,gbif.taxon_id,gbif.score
+Acroloxus lacustris,NA,Y,Y,"Acroloxus lacustris (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Acroloxidae|Acroloxus|Acroloxus lacustris,kingdom|phylum|class|family|genus|species,1|52|225|2854|2291337|4359157,4359157,0.988
+Agrostis stolonifera,NA,Y,Y,Agrostis stolonifera L.,Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Agrostis|Agrostis stolonifera,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2706434|2706435,2706435,0.988
+Algae filimentous,Y,NA,NA,NA,NA,NA,NA,NA,NA
+Alisma lanceolata,Y,NA,NA,NA,NA,NA,NA,NA,NA
+Alisma plantago-aquatica,NA,Y,Y,Alisma plantago-aquatica L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Alismataceae|Alisma|Alisma plantago-aquatica,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|3720|2865099|2865100,2865100,0.988
+Alisma plantago aquatica,Y,NA,NA,Alisma plantago R.Br.,Plantae|Tracheophyta|Liliopsida|Alismatales|Alismataceae|Alisma|Alisma plantago,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|3720|2865099|7327431,7327431,0.988
+Alisma sp,NA,Y,Y,Alisma L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Alismataceae|Alisma,kingdom|phylum|class|order|family|genus,6|7707728|196|551|3720|2865099,2865099,0.75
+Alopecurus geniculatus,NA,Y,Y,Alopecurus geniculatus L.,Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Alopecurus|Alopecurus geniculatus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2705236|5290090,5290090,0.988
+Anacamptis pyramidalis,NA,Y,Y,Anacamptis pyramidalis Rich.,Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Anacamptis|Anacamptis pyramidalis,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1169|7689|2808313|2808330,2808330,0.988
+Anisus vortex,NA,Y,Y,"Anisus vortex (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Planorbidae|Anisus|Anisus vortex,kingdom|phylum|class|family|genus|species,1|52|225|2851|9570497|4562141,4562141,0.988
+Apium nodiflorum,Y,NA,NA,Apium nodiflorum (L.) Lag. Lag. (L.),Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Helosciadium|Helosciadium nodiflorum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1351|6720|6026485|3631293,7809784,0.988
+Argyroneta aquatica,NA,Y,Y,"Argyroneta aquatica (Clerck, 1757)",Animalia|Arthropoda|Arachnida|Araneae|Dictynidae|Argyroneta|Argyroneta aquatica,kingdom|phylum|class|order|family|genus|species,1|54|367|1496|3407|2179067|2179068,2179068,0.988
+Arianta arbustorum,NA,Y,Y,"Arianta arbustorum (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Stylommatophora|Helicidae|Arianta|Arianta arbustorum,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|6540|3244077|5778937,5778937,0.988
+Baldellia ranunculoides,Y,NA,NA,Baldellia ranunculoides Parl.,Plantae|Tracheophyta|Liliopsida|Alismatales|Alismataceae|Baldellia|Baldellia ranunculoides,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|3720|2864545|2864546,2864546,0.988
+Barbarea vulgaris,Y,NA,NA,Barbarea vulgaris W.T.Aiton,Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Barbarea|Barbarea vulgaris,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7225535|3112|8370997|5708780,5708780,0.988
+Bathyomphalus contortus,NA,Y,Y,"Bathyomphalus contortus (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Planorbidae|Bathyomphalus|Bathyomphalus contortus,kingdom|phylum|class|family|genus|species,1|52|225|2851|4359150|8028368,8028368,0.988
+Berula erecta,Y,Y,Y,Berula erecta (Huds.) Coville Coville (Huds.),Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Berula|Berula erecta,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1351|6720|3034696|3034699,3034699,0.988
+Bithynia leachii,NA,Y,Y,"Bithynia leachii (Sheppard, 1823)",Animalia|Mollusca|Gastropoda|Littorinimorpha|Bithyniidae|Bithynia|Bithynia leachii,kingdom|phylum|class|order|family|genus|species,1|52|225|7390893|2678|3244907|5778074,5778074,0.988
+Bithynia tentaculata,NA,Y,Y,"Bithynia tentaculata (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Littorinimorpha|Bithyniidae|Bithynia|Bithynia tentaculata,kingdom|phylum|class|order|family|genus|species,1|52|225|7390893|2678|3244907|2299854,2299854,0.988
+Bolboschoenus maritimus,NA,Y,Y,Bolboschoenus maritimus (L.) Palla Palla (L.),Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Bolboschoenus|Bolboschoenus maritimus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2718273|2718307,2718307,0.988
+Bulboschaenus maritimus,Y,NA,NA,Bolboschoenus maritimus (L.) Palla Palla (L.),Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Bolboschoenus|Bolboschoenus maritimus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2718273|2718307,2718307,0.75
+Butomus umbellatus,Y,NA,NA,Butomus umbellatus L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Butomaceae|Butomus|Butomus umbellatus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6980|2864463|2864467,2864467,0.988
+Callitriche obtusangula,Y,NA,NA,Callitriche obtusangula Le Gall ex Hegelm.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Callitriche|Callitriche obtusangula,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2420|3039547|7575485,7575485,0.988
+Callitriche sp,NA,Y,NA,Callitriche L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Callitriche,kingdom|phylum|class|order|family|genus,6|7707728|220|408|2420|3039547,3039547,0.75
+Callitriche stagnalis,Y,NA,NA,Callitriche stagnalis Scop.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Callitriche|Callitriche stagnalis,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2420|3039547|5372487,5372487,0.988
+Caltha palustris,Y,Y,NA,Caltha palustris L.,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Caltha|Caltha palustris,kingdom|phylum|class|order|family|genus|species,6|7707728|220|399|2410|3033282|5371685,5371685,0.988
+Cardamine pratensis,Y,NA,NA,Cardamine pratensis L.,Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Cardamine|Cardamine pratensis,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7225535|3112|3045622|7972010,7972010,0.988
+Carex acutiformis/riparia,Y,NA,NA,Carex L.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex,kingdom|phylum|class|order|family|genus,6|7707728|196|1369|7708|2721893,2721893,0.75
+Carex distans,Y,NA,NA,Carex distans L.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex distans,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2726010,2726010,0.988
+Carex disticha,Y,Y,Y,Carex disticha Huds.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex disticha,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2725082,2725082,0.988
+Carex divisa,Y,Y,Y,Carex divisa Huds.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex divisa,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2723410,2723410,0.988
+Carex hirta,Y,NA,NA,Carex hirta L.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex hirta,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2724661,2724661,0.988
+Carex otrubae,Y,Y,Y,Carex otrubae Podp.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex otrubae,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2723259,2723259,0.988
+Carex paniculata,Y,NA,NA,Carex paniculata L.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex paniculata,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2723371,2723371,0.988
+Carex pendula,Y,NA,NA,Carex pendula Huds.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex pendula,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2722051,2722051,0.988
+Carex riparia,NA,Y,Y,Carex riparia Moench ex Steud.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Carex|Carex acuta,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2721893|2722833,7557775,0.988
+Carychium minimum,NA,Y,NA,"Carychium minimum Müller, 1774",Animalia|Mollusca|Gastropoda|Ellobiida|Ellobiidae|Carychium|Carychium minimum,kingdom|phylum|class|order|family|genus|species,1|52|225|9721495|9457|2291060|2291066,2291066,0.988
+Cepaea nemoralis,NA,Y,Y,"Cepaea nemoralis (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Stylommatophora|Helicidae|Cepaea|Cepaea nemoralis,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|6540|2294278|2294280,2294280,0.988
+Cepaea sp,NA,Y,NA,"Cepaea Held, 1838",Animalia|Mollusca|Gastropoda|Stylommatophora|Helicidae|Cepaea,kingdom|phylum|class|order|family|genus,1|52|225|1456|6540|2294278,2294278,0.75
+Ceratophyllum demersum,Y,Y,NA,Ceratophyllum demersum L.,Plantae|Tracheophyta|Magnoliopsida|Ceratophyllales|Ceratophyllaceae|Ceratophyllum|Ceratophyllum demersum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7224003|2425|2882396|2882398,2882398,0.988
+Chara globularis,NA,Y,Y,Chara globularis Thuill.,Plantae|Charophyta|Charophyceae|Charales|Characeae|Chara|Chara globularis,kingdom|phylum|class|order|family|genus|species,6|7819616|328|626|8782|2637982|5270780,5270780,0.988
+Chara sp.,Y,NA,NA,"Chara Staudinger, 1892",Animalia|Arthropoda|Insecta|Lepidoptera|Noctuidae|Chara,kingdom|phylum|class|order|family|genus,1|54|216|797|7015|1787988,1787988,0.75
+Chara vulgaris,NA,Y,Y,Chara vulgaris L.,Plantae|Charophyta|Charophyceae|Charales|Characeae|Chara|Chara vulgaris,kingdom|phylum|class|order|family|genus|species,6|7819616|328|626|8782|2637982|8405500,8405500,0.988
+Chenopodium alba,Y,NA,NA,Chenopodium L.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Amaranthaceae|Chenopodium,kingdom|phylum|class|order|family|genus,6|7707728|220|422|3064|3083823,3083823,0.75
+Cochlicopa lubrica,NA,Y,NA,"Cochlicopa lubrica (O.F.Müller, 1774)",Animalia|Mollusca|Gastropoda|Stylommatophora|Cochlicopidae|Cochlicopa|Cochlicopa lubrica,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|6544|2295973|2295977,2295977,0.988
+Crataegus monogyna,NA,Y,Y,Crataegus monogyna Ledeb.,Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Crataegus|Crataegus monogyna,kingdom|phylum|class|order|family|genus|species,6|7707728|220|691|5015|3013395|7755128,7755128,0.988
+Dytiscus marginalis,NA,Y,Y,"Dytiscus marginalis Linnaeus, 1758 Linnæus, 1758",Animalia|Arthropoda|Insecta|Coleoptera|Dytiscidae|Dytiscus|Dytiscus marginalis,kingdom|phylum|class|order|family|genus|species,1|54|216|1470|7824|1038058|1038064,1038064,0.988
+Eleocharis palustris,Y,Y,Y,Eleocharis palustris F.Muell.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Eleocharis|Eleocharis palustris,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2716791|8014319,8014319,0.988
+Elodea canadensis,NA,Y,Y,Elodea canadensis Michx.,Plantae|Tracheophyta|Liliopsida|Alismatales|Hydrocharitaceae|Elodea|Elodea canadensis,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|3721|7454696|2865448,2865448,0.988
+Elodea nuttallii,Y,Y,Y,Elodea nuttallii St.John,Plantae|Tracheophyta|Liliopsida|Alismatales|Hydrocharitaceae|Elodea|Elodea nuttallii,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|3721|7454696|5329212,5329212,0.988
+Enteromorpha,Y,NA,NA,"Enteromorpha Link, 1820",Plantae|Chlorophyta|Ulvophyceae|Ulvales|Ulvaceae|Ulva,kingdom|phylum|class|order|family|genus,6|36|195|641|9013|9408069,2645431,0.75
+Epilobium hirsutum,Y,Y,Y,Epilobium hirsutum L.,Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Epilobium|Epilobium hirsutum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|690|2430|3189067|3189172,3189172,0.988
+Epilobium parviflorum,NA,Y,Y,Epilobium parviflorum G.Simpson & J.S.Thomson,Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Epilobium|Epilobium novae-zealandiae,kingdom|phylum|class|order|family|genus|species,6|7707728|220|690|2430|3189067|7980290,7476585,0.988
+Equisetum fluviatile,Y,NA,NA,Equisetum fluviatile L.,Plantae|Tracheophyta|Polypodiopsida|Equisetales|Equisetaceae|Equisetum|Equisetum fluviatile,kingdom|phylum|class|order|family|genus|species,6|7707728|7228684|954|3105|2687913|2687937,2687937,0.988
+Euconulus cf. fulvus agg,NA,Y,Y,"Euconulus fulvus (Müller, 1774)",Animalia|Mollusca|Gastropoda|Stylommatophora|Euconulidae|Euconulus|Euconulus fulvus,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|4304743|4304719|4304721,4304721,0.988
+Euconulus fulvus,NA,Y,NA,"Euconulus fulvus (Müller, 1774)",Animalia|Mollusca|Gastropoda|Stylommatophora|Euconulidae|Euconulus|Euconulus fulvus,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|4304743|4304719|4304721,4304721,0.988
+Eupatorium cannabinum,Y,Y,Y,Eupatorium cannabinum L.,Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Eupatorium|Eupatorium cannabinum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|414|3065|3142374|5402943,5402943,0.988
+Filamentous algae,NA,Y,Y,NA,NA,NA,NA,NA,NA
+Filipendula ulmaria,Y,NA,NA,Filipendula ulmaria (L.) Maxim. Maxim. (L.),Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Filipendula|Filipendula ulmaria,kingdom|phylum|class|order|family|genus|species,6|7707728|220|691|5015|2987968|2987999,2987999,0.988
+Galium aparine,NA,Y,NA,Galium aparine L.,Plantae|Tracheophyta|Magnoliopsida|Gentianales|Rubiaceae|Galium|Galium aparine,kingdom|phylum|class|order|family|genus|species,6|7707728|220|412|8798|2913027|2913548,2913548,0.988
+Galium palustre,Y,NA,NA,Galium palustre L.,Plantae|Tracheophyta|Magnoliopsida|Gentianales|Rubiaceae|Galium|Galium palustre,kingdom|phylum|class|order|family|genus|species,6|7707728|220|412|8798|2913027|2913130,2913130,0.988
+Glyceria maxima,Y,Y,Y,Glyceria maxima Holmb.,Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Glyceria|Glyceria maxima,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2705475|2705484,2705484,0.988
+Glyceria plicata,Y,NA,NA,Glyceria plicata (Fr.) Fr. Fr. (Fr.),Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Glyceria|Glyceria notata,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2705475|4105780,2705500,0.988
+Gyraulus crista,NA,Y,Y,"Gyraulus crista (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Planorbidae|Armiger|Armiger crista,kingdom|phylum|class|family|genus|species,1|52|225|2851|2290961|5189709,2290963,0.988
+Hippeutis complanatus,NA,Y,Y,"Hippeutis complanatus (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Planorbidae|Hippeutis|Hippeutis complanatus,kingdom|phylum|class|family|genus|species,1|52|225|2851|4407895|4562232,4562232,0.988
+Hippuris vulgaris,Y,NA,NA,Hippuris vulgaris L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Hippuris|Hippuris vulgaris,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2420|3039572|5372503,5372503,0.988
+Hydrocharis morsus-ranae,Y,Y,Y,Hydrocharis morsus-ranae L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Hydrocharitaceae|Hydrocharis|Hydrocharis morsus-ranae,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|3721|2865596|5329266,5329266,0.988
+Hydrocotyle vulgaris,Y,NA,NA,Hydrocotyle vulgaris L.,Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Hydrocotyle|Hydrocotyle vulgaris,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1351|6720|3034601|3034606,3034606,0.988
+Hypericum tetrapterum,Y,NA,NA,Hypericum tetrapterum Fries,Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Hypericaceae|Hypericum|Hypericum tetrapterum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1414|4900406|3189452|6436469,6436469,0.988
+Iris pseudacorus,Y,Y,Y,Iris pseudacorus L.,Plantae|Tracheophyta|Liliopsida|Asparagales|Iridaceae|Iris|Iris pseudacorus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1169|7698|2748017|5298231,5298231,0.988
+Juncus acutiflorus,NA,Y,Y,Juncus acutiflorus Ehrh. ex Hoffm.,Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus|Juncus acutiflorus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|5353|2701072|2701571,2701571,0.988
+Juncus articulatus,Y,Y,Y,Juncus articulatus L.,Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus|Juncus articulatus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|5353|2701072|2701261,2701261,0.988
+Juncus bufonius,Y,NA,NA,Juncus bufonius L.,Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus|Juncus bufonius,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|5353|2701072|6413649,6413649,0.988
+Juncus effusus,Y,NA,NA,Juncus effusus L.,Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus|Juncus effusus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|5353|2701072|2701311,2701311,0.988
+Juncus gerardii,Y,NA,NA,Juncus gerardii Loisel.,Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus|Juncus gerardii,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|5353|2701072|2701297,2701297,0.988
+Juncus inflexus,Y,Y,Y,Juncus inflexus L.,Plantae|Tracheophyta|Liliopsida|Poales|Juncaceae|Juncus|Juncus inflexus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|5353|2701072|2701841,2701841,0.988
+Lathyrus pratensis,Y,NA,NA,Lathyrus pratensis L.,Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Lathyrus|Lathyrus pratensis,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1370|5386|2962244|5356701,5356701,0.988
+Leman minuscula,Y,NA,NA,Lemna minuscula Herter,Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Lemna|Lemna minuta,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6979|2867567|2867614,2867632,0.75
+Lemna gibba,Y,NA,NA,Lemna gibba L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Lemna|Lemna gibba,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6979|2867567|2867569,2867569,0.988
+Lemna minor,Y,Y,Y,Lemna minor L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Lemna|Lemna minor,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6979|2867567|2867589,2867589,0.988
+Lemna minuta,NA,Y,Y,Lemna minuta Kunth,Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Lemna|Lemna minuta,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6979|2867567|2867614,2867614,0.988
+Lemna trisulca,Y,Y,Y,Lemna trisulca L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Lemna|Lemna trisulca,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6979|2867567|2867579,2867579,0.988
+Leptodictyum riparium,NA,Y,Y,"Leptodictyum riparium Warnstorf, 1906",Plantae|Bryophyta|Bryopsida|Hypnales|Amblystegiaceae|Leptodictyum|Leptodictyum riparium,kingdom|phylum|class|order|family|genus|species,6|35|327|617|4650|2673525|2673526,2673526,0.988
+Lychnis flos-cuculi,Y,NA,NA,Lychnis flos-cuculi L.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Caryophyllaceae|Silene|Silene flos-cuculi,kingdom|phylum|class|order|family|genus|species,6|7707728|220|422|2518|3085897|5384738,3085873,0.988
+Lycopus europaeus,Y,NA,NA,Lycopus europaeus L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Lycopus|Lycopus europaeus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2497|2927122|5341478,5341478,0.988
+Lymnaea (Stagnicola) agg,NA,Y,Y,"Lymnaea Lamarck, 1799",Animalia|Mollusca|Gastropoda|Lymnaeidae|Lymnaea,kingdom|phylum|class|family|genus,1|52|225|2852|2291251,2291251,0.75
+Lymnaea stagnalis,NA,Y,Y,"Lymnaea stagnalis (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Lymnaeidae|Lymnaea|Lymnaea stagnalis,kingdom|phylum|class|family|genus|species,1|52|225|2852|2291251|2291253,2291253,0.988
+Lysimachia nummularia,Y,Y,Y,Lysimachia nummularia L.,Plantae|Tracheophyta|Magnoliopsida|Ericales|Primulaceae|Lysimachia|Lysimachia nummularia,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1353|6674|3169330|3169379,3169379,0.988
+Lythrum salicaria,Y,Y,NA,Lythrum salicaria L.,Plantae|Tracheophyta|Magnoliopsida|Myrtales|Lythraceae|Lythrum|Lythrum salicaria,kingdom|phylum|class|order|family|genus|species,6|7707728|220|690|6684|3188731|3188736,3188736,0.988
+Mentha aquatica,Y,Y,Y,Mentha aquatica L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lamiaceae|Mentha|Mentha aquatica,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2497|2927173|2927208,2927208,0.988
+Musculium lacustre,NA,Y,NA,"Musculium lacustre (O.F.Müller, 1774)",Animalia|Mollusca|Bivalvia|Sphaeriida|Sphaeriidae|Musculium|Musculium lacustre,kingdom|phylum|class|order|family|genus|species,1|52|137|10495862|3247675|2286716|2286717,2286717,0.988
+Myosotis caespitosa,Y,NA,NA,Myosotis caespitosa Schultz,Plantae|Tracheophyta|Magnoliopsida|Boraginales|Boraginaceae|Myosotis|Myosotis laxa,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7226464|2498|2925668|5341182,7295138,0.988
+Myosotis scorpioides,Y,Y,Y,Myosotis scorpioides L.,Plantae|Tracheophyta|Magnoliopsida|Boraginales|Boraginaceae|Myosotis|Myosotis scorpioides,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7226464|2498|2925668|5341184,5341184,0.988
+Myosotis sp,NA,Y,NA,Myosotis L.,Plantae|Tracheophyta|Magnoliopsida|Boraginales|Boraginaceae|Myosotis,kingdom|phylum|class|order|family|genus,6|7707728|220|7226464|2498|2925668,2925668,0.75
+Myriophyllum  verticillatum,Y,NA,NA,Myriophyllum verticillatum L.,Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Haloragaceae|Myriophyllum|Myriophyllum verticillatum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7219248|6694|2984253|5361779,5361779,0.988
+Myriophyllum sp,NA,Y,NA,Myriophyllum L.,Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Haloragaceae|Myriophyllum,kingdom|phylum|class|order|family|genus,6|7707728|220|7219248|6694|2984253,2984253,0.75
+Myriophyllum spicatum,NA,Y,Y,Myriophyllum spicatum L.,Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Haloragaceae|Myriophyllum|Myriophyllum spicatum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7219248|6694|2984253|5361760,5361760,0.988
+Nesovitrea hammonis,NA,Y,NA,"Nesovitrea hammonis (Ström, 1765)",Animalia|Mollusca|Gastropoda|Stylommatophora|Gastrodontidae|Perpolita|Perpolita hammonis,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|4562841|4599019|9371518,4562549,0.988
+Nymphaea alba,Y,Y,Y,Nymphaea alba L.,Plantae|Tracheophyta|Magnoliopsida|Nymphaeales|Nymphaeaceae|Nymphaea|Nymphaea alba,kingdom|phylum|class|order|family|genus|species,6|7707728|220|636|2423|2882411|2882437,2882437,0.988
+Oenanthe aquatica,NA,Y,NA,Oenanthe aquatica (L.) Poir. Poir. (L.),Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Oenanthe|Oenanthe aquatica,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1351|6720|3034893|5371888,5371888,0.988
+Oenanthe fistulosa,Y,Y,Y,Oenanthe fistulosa L.,Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Oenanthe|Oenanthe fistulosa,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1351|6720|3034893|5371890,5371890,0.988
+Oxyloma elegans,NA,Y,Y,"Oxyloma elegans (Risso, 1826)",Animalia|Mollusca|Gastropoda|Stylommatophora|Succineidae|Oxyloma|Oxyloma elegans,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|6531|7921295|6098953,6098953,0.988
+Persicaria amphibia,NA,Y,Y,Persicaria amphibia (L.) Delarbre Delarbre (L.),Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Persicaria|Persicaria amphibia,kingdom|phylum|class|order|family|genus|species,6|7707728|220|422|2416|6390748|6391648,7745768,0.988
+Persicaria persicaria,NA,Y,Y,Persicaria persicaria Small,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Persicaria|Persicaria maculosa|Persicaria maculosa maculosa,kingdom|phylum|class|order|family|genus|species|subspecies,6|7707728|220|422|2416|6390748|6391194|7291449,2889189,0.988
+Phalaris arundinacea,Y,NA,NA,Phalaris arundinacea L.,Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Phalaris|Phalaris arundinacea,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2703277|5289756,5289756,0.988
+Phragmites australis,NA,Y,Y,Phragmites australis (Cav.) Steud. Steud. (Cav.),Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Phragmites|Phragmites australis,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2705783|5290149,5290149,0.988
+Phragmites australis*,Y,NA,NA,Phragmites australis (Cav.) Steud. Steud. (Cav.),Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Phragmites|Phragmites australis,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|3073|2705783|5290149,5290149,0.988
+Physa fontinalis,NA,Y,Y,"Physa fontinalis (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Physidae|Physa|Physa fontinalis,kingdom|phylum|class|family|genus|species,1|52|225|6798|9037827|7568032,7568032,0.988
+Pisidium sp,NA,Y,Y,"Pisidium Pfeiffer, 1821",Animalia|Mollusca|Bivalvia|Sphaeriida|Sphaeriidae|Pisidium,kingdom|phylum|class|order|family|genus,1|52|137|10495862|3247675|2286678,2286678,0.75
+Planorbarius corneus,NA,Y,Y,"Planorbarius corneus (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Planorbidae|Planorbarius|Planorbarius corneus,kingdom|phylum|class|family|genus|species,1|52|225|2851|2290945|2290946,2290946,0.988
+Planorbis carinatus,NA,Y,NA,"Planorbis carinatus Müller, 1774",Animalia|Mollusca|Gastropoda|Planorbidae|Planorbis|Planorbis carinatus,kingdom|phylum|class|family|genus|species,1|52|225|2851|5189719|5778419,5778419,0.988
+Planorbis planorbis,NA,Y,Y,"Planorbis planorbis (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Planorbidae|Planorbis|Planorbis planorbis,kingdom|phylum|class|family|genus|species,1|52|225|2851|5189719|8298325,8298325,0.988
+Polygonum amphibium,Y,NA,NA,Polygonum amphibium L.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Persicaria|Persicaria amphibia,kingdom|phylum|class|order|family|genus|species,6|7707728|220|422|2416|6390748|6391648,9219313,0.988
+Polygonum hydropiper,Y,NA,NA,Polygonum hydropiper L.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Persicaria|Persicaria hydropiper|Persicaria hydropiper hydropiper,kingdom|phylum|class|order|family|genus|species|subspecies,6|7707728|220|422|2416|6390748|8323622|7291577,7945761,0.988
+Polygonum lapathifolium,Y,NA,NA,Polygonum lapathifolium L.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Persicaria|Persicaria lapathifolia|Persicaria lapathifolia lapathifolia,kingdom|phylum|class|order|family|genus|species|subspecies,6|7707728|220|422|2416|6390748|2889262|7291486,7762353,0.988
+Polygonum persicaria,Y,NA,NA,Polygonum persicaria L.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Persicaria|Persicaria maculosa|Persicaria maculosa maculosa,kingdom|phylum|class|order|family|genus|species|subspecies,6|7707728|220|422|2416|6390748|6391194|7291449,5334358,0.988
+Potamogeton acutifolius,Y,Y,Y,Potamogeton acutifolius Roem. & Schult.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton acutifolius,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|5642345,5642345,0.988
+Potamogeton coloratus,NA,Y,Y,Potamogeton coloratus Hornem.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton coloratus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|7289632,7289632,0.988
+Potamogeton crispus,Y,NA,NA,Potamogeton crispus L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton crispus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|5301162,5301162,0.988
+Potamogeton friesii,Y,Y,NA,Potamogeton friesii Rupr.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton friesii,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|5301204,5301204,0.988
+Potamogeton lucens,Y,NA,NA,Potamogeton lucens L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton lucens,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|5301141,5301141,0.988
+Potamogeton natans,Y,Y,Y,Potamogeton natans L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton natans,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|5301147,5301147,0.988
+Potamogeton pectinatus,Y,NA,NA,Potamogeton pectinatus L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Stuckenia|Stuckenia pectinata,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756544|7871428,8356154,0.988
+Potamogeton pusillus,Y,Y,Y,Potamogeton pusillus L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Potamogeton|Potamogeton pusillus,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2756560|8351789,8351789,0.988
+Potentilla anserina,NA,Y,Y,Potentilla anserina Jeps.,Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Potentilla|Potentilla anserina,kingdom|phylum|class|order|family|genus|species,6|7707728|220|691|5015|8079058|8124466,8124466,0.988
+Pulicaria dysenterica,Y,Y,Y,Pulicaria dysenterica (L.) Bernh. Bernh. (L.),Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Pulicaria|Pulicaria dysenterica,kingdom|phylum|class|order|family|genus|species,6|7707728|220|414|3065|9785145|3095609,3095609,0.988
+Punctum pygmaeum,NA,Y,NA,"Punctum pygmaeum (Draparnaud, 1801)",Animalia|Mollusca|Gastropoda|Stylommatophora|Punctidae|Punctum|Punctum pygmaeum,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|9428|4304732|4568278,4568278,0.988
+Radix auricularia,NA,Y,Y,"Radix auricularia (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Lymnaeidae|Radix|Radix auricularia,kingdom|phylum|class|family|genus|species,1|52|225|2852|2291289|5189888,5189888,0.988
+Radix balthica,NA,Y,Y,"Radix balthica (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Lymnaeidae|Ampullaceana|Ampullaceana balthica,kingdom|phylum|class|family|genus|species,1|52|225|2852|4606565|9991201,5724457,0.988
+Ranunculus circinatus,Y,Y,NA,Ranunculus circinatus Sibth.,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Ranunculus|Ranunculus circinatus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|399|2410|3033294|3033382,3033382,0.988
+Ranunculus sardous,NA,Y,Y,Ranunculus sardous Crantz,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Ranunculus|Ranunculus sardous,kingdom|phylum|class|order|family|genus|species,6|7707728|220|399|2410|3033294|3033483,3033483,0.988
+Ranunculus sceleratus,Y,NA,NA,Ranunculus sceleratus L.,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Ranunculus|Ranunculus sceleratus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|399|2410|3033294|3033374,3033374,0.988
+Ranunculus scleratus,NA,Y,Y,Ranunculus scleratus L.,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Ranunculus|Ranunculus scleratus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|399|2410|3033294|9065081,9065081,0.988
+Ranunculus sp,NA,Y,Y,Ranunculus L.,Plantae|Tracheophyta|Magnoliopsida|Ranunculales|Ranunculaceae|Ranunculus,kingdom|phylum|class|order|family|genus,6|7707728|220|399|2410|3033294,3033294,0.75
+Ribes rubrum,NA,Y,NA,Ribes rubrum L.,Plantae|Tracheophyta|Magnoliopsida|Saxifragales|Grossulariaceae|Ribes|Ribes rubrum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7219248|2403|2986095|2986097,2986097,0.988
+Rorippa nasturtium-aquaticum,Y,Y,Y,Rorippa nasturtium-aquaticum Schinz & Thell.,Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Rorippa|Rorippa nasturtium-aquaticum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|7225535|3112|3053118|7572471,7572471,0.988
+Rubus fruticosus agg,NA,Y,NA,Rubus fruticosus Hegetschw.,Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Rubus|Rubus fruticosus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|691|5015|2988638|7447680,7447680,0.988
+Rumex conglomeratus,NA,Y,Y,Rumex conglomeratus Murray,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Rumex|Rumex conglomeratus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|422|2416|2888942|2888963,2888963,0.988
+Rumex hydrolapathum,Y,Y,Y,Rumex hydrolapathum Huds.,Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Rumex|Rumex hydrolapathum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|422|2416|2888942|7291247,7291247,0.988
+Salix sp,NA,Y,Y,Salix L.,Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Salicaceae|Salix,kingdom|phylum|class|order|family|genus,6|7707728|220|1414|6664|3039576,3039576,0.75
+Samolus valerandi,Y,Y,Y,Samolus valerandi L.,Plantae|Tracheophyta|Magnoliopsida|Ericales|Primulaceae|Samolus|Samolus valerandi,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1353|6674|3169310|3169313,3169313,0.988
+Scirpus lacustris,Y,NA,NA,Scirpus lacustris L.,Plantae|Tracheophyta|Liliopsida|Poales|Cyperaceae|Schoenoplectus|Schoenoplectus lacustris,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|7708|2710907|2710941,7553098,0.988
+Scrophularia aquatica,Y,NA,NA,Scrophularia aquatica L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Scrophulariaceae|Scrophularia|Scrophularia umbrosa,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2390|3170861|3170866,3170867,0.988
+Segmentina nitida,NA,Y,Y,"Segmentina nitida (O.F.Müller, 1774)",Animalia|Mollusca|Gastropoda|Planorbidae|Segmentina|Segmentina nitida,kingdom|phylum|class|family|genus|species,1|52|225|2851|2290953|4562139,4562139,0.988
+Silaum silaus,NA,Y,Y,Silaum silaus Schinz & Thell.,Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Silaum|Silaum silaus,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1351|6720|6027385|6027388,6027388,0.988
+Solanum dulcamara,Y,Y,Y,Solanum dulcamara L.,Plantae|Tracheophyta|Magnoliopsida|Solanales|Solanaceae|Solanum|Solanum dulcamara,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1176|7717|2928997|2932737,2932737,0.988
+Sparganium erectum,Y,Y,Y,Sparganium erectum L.,Plantae|Tracheophyta|Liliopsida|Poales|Typhaceae|Sparganium|Sparganium erectum,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|4246|2702260|7679536,7679536,0.988
+Sphaerium corneum,NA,Y,Y,"Sphaerium corneum (Linnaeus, 1758)",Animalia|Mollusca|Bivalvia|Sphaeriida|Sphaeriidae|Sphaerium|Sphaerium corneum,kingdom|phylum|class|order|family|genus|species,1|52|137|10495862|3247675|2286706|2286709,2286709,0.988
+Spirodella polyrhiza,Y,NA,NA,Spirodela polyrhiza (L.) Schleid. Schleid. (L.),Plantae|Tracheophyta|Liliopsida|Alismatales|Araceae|Spirodela|Spirodela polyrhiza,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6979|2867778|4097481,4097481,0.75
+Succinea putris,NA,Y,NA,"Succinea putris (Linnaeus, 1758)",Animalia|Mollusca|Gastropoda|Stylommatophora|Succineidae|Succinea|Succinea putris,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|6531|2297197|2297206,2297206,0.988
+Succineid sp,NA,Y,Y,NA,NA,NA,NA,NA,NA
+Trifolium fragiferum,NA,Y,Y,Trifolium fragiferum L.,Plantae|Tracheophyta|Magnoliopsida|Fabales|Fabaceae|Trifolium|Trifolium fragiferum,kingdom|phylum|class|order|family|genus|species,6|7707728|220|1370|5386|2973363|5358935,5358935,0.988
+Typha angustifolia,Y,Y,Y,Typha angustifolia L.,Plantae|Tracheophyta|Liliopsida|Poales|Typhaceae|Typha|Typha angustifolia,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|4246|2702102|5289461,5289461,0.988
+Typha latifolia,Y,Y,Y,Typha latifolia L.,Plantae|Tracheophyta|Liliopsida|Poales|Typhaceae|Typha|Typha latifolia,kingdom|phylum|class|order|family|genus|species,6|7707728|196|1369|4246|2702102|5289423,5289423,0.988
+Urtica dioica,NA,Y,NA,Urtica dioica L.,Plantae|Tracheophyta|Magnoliopsida|Rosales|Urticaceae|Urtica|Urtica dioica,kingdom|phylum|class|order|family|genus|species,6|7707728|220|691|6639|2984391|7960979,7960979,0.988
+Urtica dioica subsp. Galeopsifolia,NA,Y,Y,Urtica dioica subsp. galeopsifolia (Wierzb. ex Opiz) J.Chrtek J.Chrtek (Wierzb. ex Opiz),Plantae|Tracheophyta|Magnoliopsida|Rosales|Urticaceae|Urtica|Urtica dioica|Urtica dioica pubescens,kingdom|phylum|class|order|family|genus|species|subspecies,6|7707728|220|691|6639|2984391|7960979|7806201,5670521,0.999
+Utricularia vulgaris,Y,NA,NA,Utricularia vulgaris L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Lentibulariaceae|Utricularia|Utricularia vulgaris,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2391|3172398|3172427,3172427,0.988
+Valvata cristata,NA,Y,Y,"Valvata cristata Müller, 1774",Animalia|Mollusca|Gastropoda|Valvatidae|Valvata|Valvata cristata,kingdom|phylum|class|family|genus|species,1|52|225|2699|1434828|4358714,4358714,0.988
+Veronica anagalis-aquatica,Y,NA,NA,Veronica anagallis-aquatica L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Veronica|Veronica anagallis-aquatica,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2420|3172047|3172086,3172086,0.75
+Veronica beccabunga,Y,NA,NA,Veronica beccabunga L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Veronica|Veronica beccabunga,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2420|3172047|3172062,3172062,0.988
+Veronica scutellata,Y,NA,NA,Veronica scutellata L.,Plantae|Tracheophyta|Magnoliopsida|Lamiales|Plantaginaceae|Veronica|Veronica scutellata,kingdom|phylum|class|order|family|genus|species,6|7707728|220|408|2420|3172047|3172072,3172072,0.988
+Vertigo antivertigo,NA,Y,NA,"Vertigo antivertigo (Draparnaud, 1801)",Animalia|Mollusca|Gastropoda|Stylommatophora|Vertiginidae|Vertigo|Vertigo antivertigo,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|3244262|2293972|4567237,4567237,0.988
+Vertigo moulinsiana,NA,Y,NA,"Vertigo moulinsiana (Dupuy, 1849)",Animalia|Mollusca|Gastropoda|Stylommatophora|Vertiginidae|Vertigo|Vertigo moulinsiana,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|3244262|2293972|4567215,4567215,0.988
+Vertigo pygmaea,NA,Y,NA,"Vertigo pygmaea (Draparnaud, 1801)",Animalia|Mollusca|Gastropoda|Stylommatophora|Vertiginidae|Vertigo|Vertigo pygmaea,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|3244262|2293972|2293983,2293983,0.988
+Vitrina pellucida,NA,Y,NA,"Vitrina pellucida (O.F.Müller, 1774)",Animalia|Mollusca|Gastropoda|Stylommatophora|Vitrinidae|Vitrina|Vitrina pellucida,kingdom|phylum|class|order|family|genus|species,1|52|225|1456|6529|2294288|2294290,2294290,0.988
+Zannichelia palustris,Y,NA,NA,Zannichellia palustris L.,Plantae|Tracheophyta|Liliopsida|Alismatales|Potamogetonaceae|Zannichellia|Zannichellia palustris,kingdom|phylum|class|order|family|genus|species,6|7707728|196|551|6721|2652929|2756540,2756540,0.75
+Zonitoides nitidus,NA,Y,Y,NA,NA,NA,NA,NA,NA
